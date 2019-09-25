@@ -1,1 +1,5 @@
-aaaaaa
+#include<stdio.h>
+int main()
+{
+    printf("HHHH");
+}
